@@ -1,1 +1,1 @@
-# Smart-Surveillance developed using OpenCV Python anbd CNN Model.
+# Smart-Surveillance developed using OpenCV Python and CNN Model.
